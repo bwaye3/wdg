@@ -42,7 +42,6 @@
         "drupal/state_machine": "^1.0",
         "drupal/token": "^1.6",
         "drupal/tvi": "^1.0@beta",
-        "drupal/twitter_block": "^2.1",
         "drupal/views_infinite_scroll": "^1.6",
         "drush/drush": "^10.2"
     },
